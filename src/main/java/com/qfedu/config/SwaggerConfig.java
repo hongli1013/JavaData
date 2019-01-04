@@ -11,6 +11,7 @@ import springfox.documentation.spring.web.plugins.Docket;
 import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 /**
+ * s
  *@Author feri
  *@Date Created in 2019/1/4 10:02
  */
